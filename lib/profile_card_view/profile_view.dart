@@ -52,7 +52,7 @@ class _ProfileViewPageState extends State<ProfileViewPage> {
                 Text("Radhesh Roy", style: TextStyle(fontWeight: FontWeight.w600, fontSize: 13.sp),),
                 Text("ID: 42240302018",style: TextStyle(fontWeight: FontWeight.w400, fontSize: 9.sp, color: Colors.grey),),
                 Text("Computer Science and Engineering",style: TextStyle(fontWeight: FontWeight.w400, fontSize: 9.sp, color: Colors.grey),),
-                CustomButton()
+               // CustomButton()
               ],
             ),
           ),
