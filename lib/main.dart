@@ -16,6 +16,7 @@ class MyApp extends StatelessWidget {
       builder: (context, child){
         return MaterialApp(
           debugShowCheckedModeBanner: false,
+          title: "Student Card",
           initialRoute: "/cardview",
           routes: {
             "/cardview":(context)=> ProfileViewPage()
